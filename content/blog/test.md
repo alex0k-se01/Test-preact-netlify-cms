@@ -15,4 +15,4 @@ tags: plug-and-pray
 
 ### Not inlined image
 
-![Not inlined](src/assets/5591062e1dc857b2b2c93ae0c75bf5e5.jpg)
+![Not inlined](/assets/5591062e1dc857b2b2c93ae0c75bf5e5.jpg)
