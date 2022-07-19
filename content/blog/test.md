@@ -5,7 +5,7 @@ subtitle: or how to make simple things difficult...
 cover: /assets/7zcn4-jyidyjxexf4mx3s7xlwnamikmb3xm8xragrd8.webp
 tags: plug-and-pray
 ---
-## Ня?
+## Ня???
 
 ### Inlined image
 
